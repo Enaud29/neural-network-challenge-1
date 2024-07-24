@@ -25,3 +25,6 @@ Part 2: Compile and Evaluate a Model Using a Neural Network
 	3.	Evaluate the Model: Calculate the model’s loss and accuracy using the testing data.
 
 These steps guide the preparation, training, evaluation, and potential application of a neural network model for predicting student loan repayment success.
+
+# References
+Chat GPT, Kalvin Anglin, Solutions examples from class.
